@@ -59,14 +59,19 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 
 ### Monthly Trends
 
-- **Peak Month:** November 2017 (7,544 orders, BR 1,194,882.8 revenue).  
+- **Peak Month:**
+  - November 2017 (7,544 orders, BR 1,194,882.8 revenue).  
   - This aligns with Black Friday promotions, showing a clear discount-driven spike in orders.  
-- **Revenue Peak:** July 2018 saw the highest total revenue, despite fewer orders, indicating higher-value purchases during this period.  
+- **Revenue Peak:**
+  - July 2018 saw the highest total revenue, despite fewer orders, indicating higher-value purchases during this period.  
   - Suggests a different customer behavior: focused on high-value or seasonal items rather than discounts.  
-- **Stable Average Order Value:** BR 160–167 during peak months, showing predictable spending behaviour.  
-- **High-Revenue Categories:** Health & Beauty, Watches & Gifts, and Electronics consistently contribute the most.  
+- **Stable Average Order Value:**
+  - BR 160–167 during peak months, showing predictable spending behaviour.  
+- **High-Revenue Categories:**
+  - Health & Beauty, Watches & Gifts, and Electronics consistently contribute the most.  
   - These categories combine high purchase frequency and/or high price points, driving overall revenue.  
-- **Insight:** The two distinct patterns—discount-driven vs high-value purchases—highlight the importance of targeting marketing, stock, and logistics strategies differently depending on the type of peak.
+- **Insight:**
+  - The two distinct patterns—discount-driven vs high-value purchases—highlight the importance of targeting marketing, stock, and logistics strategies differently depending on the type of peak.
 
 **Yearly Growth**
 
