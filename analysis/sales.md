@@ -72,7 +72,7 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 
 | Year | Revenue (BR)   | YoY Growth |
 |------|---------------|------------|
-| 2016 | 59,362.34     | -          |
+| 2016 | 59,362.34     | 0%          |
 | 2017 | 7,249,746.73  | 121%       |
 | 2018 | 8,699,763.02  | 0.2%       |
 
