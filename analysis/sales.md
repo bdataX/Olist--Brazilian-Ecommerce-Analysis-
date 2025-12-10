@@ -84,7 +84,8 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 ### Forecast (Post-2018) (12-Month Projection)
 
 - **Predicted revenue:** BR 13.76M  
-- **Upper Bound:** BR 17.07M | **Lower Bound:** BR 10.44M  
+- **Upper Bound:** BR 17.07M 
+- **Lower Bound:** BR 10.44M  
 
 **Executive Insight:**  
 - The platform shows **strong initial growth** in 2017, stabilising in 2018, suggesting a maturing marketplace.  
