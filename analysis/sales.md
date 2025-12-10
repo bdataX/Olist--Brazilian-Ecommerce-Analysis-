@@ -51,8 +51,7 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 - Optimize delivery logistics in distant regions to lower costs and improve satisfaction.  
 - Monitor high-revenue areas to maintain service quality while scaling into new markets.
 
-
-![Sales Overview](assets/Overview.png)
+![Sales Overview](https://raw.githubusercontent.com/DA-LON14/Olist-E-Commerce-Analytics-Project/main/assets/Overview.png)
 
 ---
 
