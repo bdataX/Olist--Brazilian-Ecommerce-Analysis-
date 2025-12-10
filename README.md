@@ -21,7 +21,7 @@
 ---
 
 #  Olist E-Commerce Data Analytics Project  
-### **UK Data Analyst Bootcamp – Final Group Project (Group 2)**  
+### **UK Data Analyst Bootcamp – Group Project (Group 2)**  
 [Back to Top](#table-of-contents)
 
 **Team Members & Roles**
