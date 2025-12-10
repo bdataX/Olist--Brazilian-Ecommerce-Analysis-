@@ -71,7 +71,7 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
   - Health & Beauty, Watches & Gifts, and Electronics consistently contribute the most.  
   - These categories combine high purchase frequency and/or high price points, driving overall revenue.  
 - **Insight:**
-  - The two distinct patterns—discount-driven vs high-value purchases—highlight the importance of targeting marketing, stock, and logistics strategies differently depending on the type of peak.
+  - The two distinct patterns: discount-driven vs high-value purchases, highlight the importance of targeting marketing, stock, and logistics strategies differently depending on the type of peak.
 
 **Yearly Growth**
 
