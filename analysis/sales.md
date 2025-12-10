@@ -18,7 +18,8 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 
 ---
 
-![Sales Overview](https://raw.githubusercontent.com/DA‑LON14/Olist-E-Commerce-Analytics-Project/main/assets/Overview.png)
+![Sales Overview](assets/Overview.png)
+
 
 ---
 ## 2. Sales Overview
