@@ -52,10 +52,6 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 - Monitor high-revenue areas to maintain service quality while scaling into new markets.
 
 ![Sales Overview](https://github.com/DA-LON14/Olist-E-Commerce-Analytics-Project/blob/main/assets/Overview.png)
-![Sales Overview](https://raw.githubusercontent.com/DA-LON14/Olist-E-Commerce-Analytics-Project/main/assets/Overview.png)
-
-<img width="1300" height="730" alt="Delivery Time" src="https://raw.githubusercontent.com/DA-LON14/Olist-E-Commerce-Analytics-Project/main/assets/Overview.png"
----
 
 ## 3. Revenue Over Time
 
