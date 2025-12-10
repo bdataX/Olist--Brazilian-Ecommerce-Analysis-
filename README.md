@@ -21,7 +21,6 @@
 ---
 
 #  Olist E-Commerce Data Analytics Project  
-[Back to Top](#table-of-contents)
 
 ---
 
