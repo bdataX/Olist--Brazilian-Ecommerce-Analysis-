@@ -139,6 +139,8 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 - Monitor regional differences: high-income states like São Paulo may favor high-value products, while Northern states may have higher demand for affordable or essential items.  
 - Use category trends to guide **cross-selling, bundling, and loyalty campaigns** that fit Brazilian consumer behaviour.
 
+![Revenue-Over-Time](https://github.com/DA-LON14/Olist-E-Commerce-Analytics-Project/blob/main/assets/Revenue%20Over%20Time.png)
+
 ---
 
 ## 5. Key Insights & Strategic Implications
