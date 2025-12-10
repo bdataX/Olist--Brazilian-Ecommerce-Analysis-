@@ -18,10 +18,6 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 
 ---
 
-![Sales Overview](assets/Overview.png)
-
-
----
 ## 2. Sales Overview
 
 **Objective:** Understand overall sales performance, regional contributions, and marketplace reach.
@@ -54,6 +50,9 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 - Expand seller recruitment and marketing in Northern and Northeastern states to reduce revenue concentration.  
 - Optimize delivery logistics in distant regions to lower costs and improve satisfaction.  
 - Monitor high-revenue areas to maintain service quality while scaling into new markets.
+
+
+![Sales Overview](assets/Overview.png)
 
 ---
 
