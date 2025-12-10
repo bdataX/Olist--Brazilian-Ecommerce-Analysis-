@@ -48,12 +48,12 @@ All modelling and analysis were done in **Power BI**, with **Python used for tra
 
 | Folder | Description |
 |--------|-------------|
-| [`data`](data/README.md) | Raw, cleaned, and dictionary datasets for analysis. |
-| [`reports`](reports/README.md) | Final outputs including Power BI dashboards, presentations, and written reports. |
-| [`analysis`](analysis/README.md) | Scripts and outputs for customer, product, sales, and delivery analyses. |
+| [`data`](data) | Raw, cleaned, and dictionary datasets for analysis. |
+| [`reports`](reports) | Final outputs including Power BI dashboards, presentations, and written reports. |
+| [`analysis`](analysis) | Scripts and outputs for customer, product, sales, and delivery analyses. |
 | [`dax`](dax) | DAX measures, calculated columns, and data model definitions for Power BI. |
-| [`scripts`](scripts/README.md) | Python scripts (translation), Power Query scripts, and utility helpers. |
-| [`assets`](assets/README.md) | Static assets including charts and reports. |
+| [`scripts`](scripts) | Python scripts (translation), Power Query scripts, and utility helpers. |
+| [`assets`](assets) | Static assets including charts and reports. |
 
 ---
 
