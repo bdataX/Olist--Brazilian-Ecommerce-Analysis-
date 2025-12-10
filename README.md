@@ -25,10 +25,10 @@
 [Back to Top](#table-of-contents)
 
 **Team Members & Roles**
-- **Bijal** – Overview & Sales Analysis
-- **Rebecca** – Product Analysis
-- **Lina** – Delivery Performance Analysis 
-- **Xue** – Customer Analysis + NLP + Sentiment  
+- **Bijal** - Overview & Sales Analysis
+- **Rebecca** - Product Analysis
+- **Lina** - Delivery Performance Analysis 
+- **Xue** - Customer Analysis + NLP + Sentiment  
 
 **Project Completion:** 9 December 2025  
 **Presentation Date:** 9 December 2025  
