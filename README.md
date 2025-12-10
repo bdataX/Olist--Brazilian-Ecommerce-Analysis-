@@ -21,17 +21,7 @@
 ---
 
 #  Olist E-Commerce Data Analytics Project  
-### **UK Data Analyst Bootcamp – Group Project (Group 2)**  
 [Back to Top](#table-of-contents)
-
-**Team Members & Roles**
-- **Bijal** - Overview & Sales Analysis
-- **Rebecca** - Product Analysis
-- **Lina** - Delivery Performance Analysis 
-- **Xue** - Customer Analysis + NLP + Sentiment  
-
-**Project Completion:** 9 December 2025  
-**Presentation Date:** 9 December 2025  
 
 ---
 
