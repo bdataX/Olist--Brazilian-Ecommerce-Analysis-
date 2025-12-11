@@ -8,7 +8,7 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 
 **High-Level Findings:**
 
-- **Revenue & Orders:** Olist generated **R$16.01M** from **99.44K orders** across **3,094 sellers**.  
+- **Revenue & Orders:** Olist generated **BR 16.01M** from **99.4K orders** across **3,094 sellers**.  
 - **Top Markets:** São Paulo leads revenue contributions, followed by Paraná, Minas Gerais, Rio de Janeiro, and Santa Catarina.  
 - **Payment Trends:** Credit cards dominate (78.34%), highlighting customer preference for digital installment payments.  
 - **Product Performance:** Watches & Gifts, Health & Beauty, and Computer Accessories drive the highest revenue.  
@@ -27,7 +27,7 @@ This report provides a comprehensive analysis of the Olist e-commerce platform's
 | Metric          | Value       |
 |----------------|------------|
 | Total Sales     | BR 16.01M   |
-| Total Orders    | 99.44K     |
+| Total Orders    | 99.4K     |
 | Total Sellers   | 3,094      |
 | Total Cities    | 5,995      |
 
