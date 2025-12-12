@@ -184,16 +184,16 @@ Script location: [translate_reviews.py](scripts/translate_reviews.py)
 [Back to Top](#table-of-contents)
 
 ### 1. High-Value Order Rapid Response Team  
-Prioritise large, high-risk orders in slow-delivery regions.
+- Prioritise large, high-risk orders in slow-delivery regions.
 
 ### 2. Proactive Outreach to At-Risk Customers  
-Prevent churn by recovering silent detractors early.
+- Prevent churn by recovering silent detractors early.
 
 ### 3. Improve Logistics in Chronic Delay Regions  
-Focus particularly on captial city Boa Vista (Roraima State(RR)) and other outlier states.
+- Focus particularly on captial city Boa Vista (Roraima State(RR)) and other outlier states.
 
 ### 4. Automated Quality Alerts for Product Issues  
-Use negative sentiment spikes to detect emerging product defects early.
+- Use negative sentiment spikes to detect emerging product defects early.
 
 ---
 
